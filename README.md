@@ -39,5 +39,5 @@ __negrita__
 
 [ir a google](https://www.google.com "Haz click para acceder")
 
-![image](https://user-images.githubusercontent.com/75097605/191204764-424c1e53-3493-450f-8b3c-b6bbb40e2bd3.png)
+![image](IMG_logo_(2017).svg)
 
