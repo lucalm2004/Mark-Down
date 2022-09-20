@@ -43,4 +43,6 @@ __negrita__
 
 | 1 | 2 | 3 | 
 | - | :-: | -: |
+| item1 | boligrafos | 20€ |
+| item2 | estuche | 400€ |
 
