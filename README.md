@@ -39,5 +39,8 @@ __negrita__
 
 [ir a google](https://www.google.com "Haz click para acceder")
 
-![image](IMG_logo_(2017).svg)
+![image](IMG_logo_(2017).svg) 
+
+| 1 | 2 | 3 | 
+| - |
 
