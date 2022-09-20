@@ -17,3 +17,11 @@ __negrita__
 4. 4
 5. 5
 6. 6
+
+* primer elemento
+* segundo elemento
+* tercer elemento
+
+- primer elemento
+- segundo elemento 
+- tercer elemento
