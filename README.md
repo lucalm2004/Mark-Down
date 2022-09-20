@@ -41,7 +41,7 @@ __negrita__
 
 ![image](IMG_logo_(2017).svg) 
 
-| 1 | 2 | 3 | 
+| Encabezado 1 | Encabezado 2 | Encabezado 3 | 
 | - | :-: | -: |
 | item1 | boligrafos | 20€ |
 | item2 | estuche | 400€ |
