@@ -37,4 +37,4 @@ __negrita__
 </html>
 ````
 
-[ir a google](www.google.com)
+[ir a google](https://www.google.com)
